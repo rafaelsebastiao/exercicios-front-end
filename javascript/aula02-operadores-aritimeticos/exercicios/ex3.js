@@ -5,4 +5,4 @@ let altura = Number(prompt("Digite a altura da parede: "))
 
 quantLitros = largura * altura / 2
 
-alert(`Para pintar a parede, serão necessários ${quantLitros}L de tinta!`)
+alert(`Para pintar a parede, que possui uma área de ${largura*altura}m², serão necessários ${quantLitros}L de tinta!`)
