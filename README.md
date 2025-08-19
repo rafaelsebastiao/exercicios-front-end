@@ -1,0 +1,2 @@
+<h1>Bem vindo!</h1>
+<p>Este é um repositório que contém todos os exercícios da matéria de PWFE1 (Programação Web Front-End 1) do 2º Semestre do Curso Técnico em Desenvolvimento de Sistemas do Senai Roberto Mange.</p>
