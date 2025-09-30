@@ -15,5 +15,4 @@ while (numSorteado != numTentado){
     }
 }
 
-
 window.alert(`Parabéns! Você acertou o número em um total de ${tentativas} tentativas!`)

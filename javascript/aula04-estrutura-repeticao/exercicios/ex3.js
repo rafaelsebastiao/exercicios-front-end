@@ -3,6 +3,7 @@
 let opcoesJogo = ["pedra", "papel", "tesoura"]
 let opcaoUsuario, indiceSorteado, opcaoSorteada, msgResultJogo, resp
 
+
 do {
     opcaoUsuario = window.prompt("Pedra, papel ou tesoura? ")
     opcaoUsuario = opcaoUsuario.toLowerCase()
